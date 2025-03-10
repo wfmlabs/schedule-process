@@ -1,0 +1,6 @@
+title: Schedule Change Process
+description: Documentation for the schedule change request process
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true

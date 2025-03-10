@@ -1,6 +1,6 @@
 # Schedule Change Request Process Flow
 
-```mermaid
+<div class="mermaid">
 flowchart LR
     %% First Row
     Start(["Start"]) --> Step1["Step 1<br/>Agent Submits<br/>Change Request"]
@@ -25,3 +25,4 @@ flowchart LR
     class Step1,Step2,Step4,Step5,Step6,Step7,Step8 process
     class Step3 decision
     class Start,End,A endpoint
+</div>
