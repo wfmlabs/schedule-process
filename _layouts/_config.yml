@@ -1,6 +1,6 @@
-title: Schedule Change Process
-description: Documentation for the schedule change request process
 markdown: kramdown
 kramdown:
+  input: GFM
+  hard_wrap: false
   syntax_highlighter_opts:
     disable: true
