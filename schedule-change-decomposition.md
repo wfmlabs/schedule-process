@@ -1,5 +1,5 @@
 # Schedule Change Request Process - Level 2 Decomposition
-
+<div style="overflow-x: auto;">
 | L1 Step ID | L1 Step Name | Step Description (i.e., Level 2 Summary) | L2 Step ID | L2 Step Name/Short Description | Dependent Steps (L1 or L2) | Tools Used | Code in TTS | Step Owner (Group & Function) | TTS Status | Applicable Documentation | Notification Required? (Group, Function & Verbatim) | Approval Required? | Approvers (Group & Function) | Step Duration (days, hrs, min) |
 |------------|--------------|------------------------------------------|------------|-------------------------------|---------------------------|------------|-------------|------------------------------|------------|--------------------------|--------------------------------------------------|-------------------|----------------------------|------------------------------|
 | 1 | Agent Submits Change Request | Agent submits a request to modify their schedule through the appropriate channels | 1.1 | Submit request via scheduling system | None | Scheduling Tool | Yes | Agent | N/A | Schedule Change Policy | No | No | N/A | Minutes |
@@ -21,3 +21,4 @@
 | | | | 7.2 | Document adherence to policy | 7.1 | Documentation System | Yes | WFM Team | Complete | Policy Compliance Records | No | No | N/A | Minutes |
 | 8 | Update Reports | Ensure all reporting reflects the approved changes | 8.1 | Update staffing reports | 7.2 | Reporting System | Yes | WFM Analyst | Complete | Staffing Report Procedures | Yes, Management Team, Email | No | N/A | Hours |
 | | | | 8.2 | Reconcile change tracking for monthly analysis | 8.1 | Analytics System | Yes | WFM Analyst | Complete | Monthly Reconciliation Process | No | No | N/A | Hours |
+</div>

@@ -8,6 +8,29 @@
   {% if site.favicon %}
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
   {% endif %}
+  <style>
+    .container-lg {
+      max-width: 1400px !important;
+      margin: 0 auto;
+    }
+    
+    table {
+      display: table;
+      width: 100%;
+      overflow-x: auto;
+    }
+    
+    th, td {
+      white-space: nowrap;
+      padding: 8px 12px;
+    }
+    
+    @media screen and (max-width: 768px) {
+      .container-lg {
+        padding: 0 !important;
+      }
+    }
+  </style>
 </head>
 <body>
   <div class="container-lg px-3 my-5 markdown-body">

@@ -1,0 +1,21 @@
+.markdown-body {
+    max-width: 1400px !important;
+    margin: 0 auto;
+  }
+  
+  table {
+    display: table;
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  th, td {
+    white-space: nowrap;
+    padding: 8px 12px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .container-lg {
+      padding: 0 !important;
+    }
+  }
