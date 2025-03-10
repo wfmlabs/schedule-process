@@ -1,7 +1,7 @@
 # Schedule Change Request Process - Level 2 Decomposition
 
-<div class="table-wrapper" markdown="block">
-| L1 Step ID | L1 Step Name | Step Description (i.e., Level 2 Summary) | L2 Step ID | L2 Step Name/Short Description | Dependent Steps (L1 or L2) | Tools Used | Code in TTS | Step Owner (Group & Function) | TTS Status | Applicable Documentation | Notification Required? (Group, Function & Verbatim) | Approval Required? | Approvers (Group & Function) | Step Duration (days, hrs, min) |
+<div class="table-wrapper" markdown="1">
+| L1 Step ID | L1 Step Name | Step Description | L2 Step ID | L2 Step Name/Short Description | Dependent Steps (L1 or L2) | Tools Used | Code in TTS | Step Owner (Group & Function) | TTS Status | Applicable Documentation | Notification Required? (Group, Function & Verbatim) | Approval Required? | Approvers (Group & Function) | Step Duration (days, hrs, min) |
 |------------|--------------|------------------------------------------|------------|-------------------------------|---------------------------|------------|-------------|------------------------------|------------|--------------------------|--------------------------------------------------|-------------------|----------------------------|------------------------------|
 | 1 | Agent Submits Change Request | Agent submits a request to modify their schedule through the appropriate channels | 1.1 | Submit request via scheduling system | None | Scheduling Tool | Yes | Agent | N/A | Schedule Change Policy | No | No | N/A | Minutes |
 | | | | 1.2 | Provide required details (date, time, reason) | 1.1 | Scheduling Tool | Yes | Agent | N/A | Request Form Guidelines | No | No | N/A | Minutes |
